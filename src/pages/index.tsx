@@ -69,6 +69,9 @@ export default function Home({ landingPage }: LandinPageProps) {
         <h1 className={inter.className}>
           {landingPage.data.attributes.header.company}
         </h1>
+        <h1 className={inter.className}>
+          {landingPage.data.attributes.header.company}
+        </h1>
       </main>
     </>
   );
