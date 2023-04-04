@@ -1,0 +1,12 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #017444;
+  justify-content: center;
+  align-items: center;
+  h1 {
+    color: red;
+    font-weight: 400;
+  }
+}
